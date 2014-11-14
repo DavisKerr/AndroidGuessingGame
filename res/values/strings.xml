@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidGuessingGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="welcome">Welcome to the Guessing App</string>
+    <string name="introMessageOne">Hi! The objective of the game is to answer the riddle. You get 10 points if you guess on your first try, and -1 for each guess after. If you are stuck, click the hint button to see a hint. This takes away 3 points. Click start to begin. Good luck!</string>
+    <string name="start">Start</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="beginText">Guess the answer to the following riddle:</string>
+    <string name="hintButtonText">Hint</string>
+    <string name="submitButtonString">Submit</string>
+
+</resources>
